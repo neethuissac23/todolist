@@ -1,0 +1,18 @@
+.banner{
+    background-color: #cc0066;
+    width: 100%;
+    height:200px;
+    margin-bottom: 50px;
+}
+.banner1{
+    background-color: #6a4244;
+    width: 100%;
+    height:200px;
+    margin-bottom: 50px;
+}
+.banner-text{
+    margin-left:43%;
+    padding-top:70px;
+    position: absolute;
+    transform: transform;
+}
